@@ -36,7 +36,7 @@
 										style="font-size:20px;"></i></a>
 									<a href="update/${p.id }"><i
 										class="fa-sharp fa-solid fa-pen-nib text-primary"
-										style="font-size:20px;"></i></a></td>
+									style="font-size:20px;"></i></a></td>
 							</tr>
 						</c:forEach>
 					</tbody>
